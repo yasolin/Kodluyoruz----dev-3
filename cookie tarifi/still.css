@@ -1,0 +1,55 @@
+body {
+   background-image:url("rumeysa-aydin-rjf4FcmERGc-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+.kapsa{
+    width: 900px;
+    margin: 20px auto;
+    border: 2px solid brown;
+}
+.header{
+    padding: 30px;
+    }
+.header h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 480px;
+  color:firebrick
+}
+.sol_taraf{ 
+    width: 600px;
+    line-height: 30px;
+    text-align: justify;
+    font-size: larger;
+    float: left;
+}
+.sol_taraf h2{
+width: 600px;
+border-bottom: 2px dashed brown;
+padding: 20px;
+float: left;
+color: firebrick;
+}
+.sagkisim { 
+float:right;
+line-height: 30px;
+text-align: justify;
+font-size:medium;
+}
+.sagkisim img{
+    height: 280px;
+    width: 300px;
+    float: left;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.sagkisim h2{
+    width: 600px;
+    border-bottom: 2px dashed brown;
+    padding: 20px;
+    color: firebrick;
+}
+   
+    
